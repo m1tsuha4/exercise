@@ -1,0 +1,227 @@
+[
+  {
+    "name": "Abdominal Machine Crunch",
+    "type": "strength",
+    "muscle": "abdominals",
+    "equipment": "abdominal-machine",
+    "difficulty": "beginner",
+    "instructions": "Adjust the abdominal machine to your height and sit on the seat facing the pads. Grasp the handles or place your hands on the designated grips. Keep your back pressed against the pad and initiate the movement by contracting your abdominal muscles. Bring your chest towards your knees, exhaling as you crunch. Hold the contraction briefly, then inhale as you return to the starting position.",
+    "link": "https://www.youtube.com/watch?v=_O1xunCfYEM"
+  },
+  {
+    "name": "Seated Leg Raise on Abdominal Machine",
+    "type": "strength",
+    "muscle": "abdominals",
+    "equipment": "abdominal-machine",
+    "difficulty": "beginner",
+    "instructions": "Adjust the abdominal machine to your height and sit on the seat with your back against the pad. Place your arms on the designated supports and grip the handles. Lift your legs by flexing your hips, bringing your knees toward your chest. Pause at the top, then lower your legs back down with control to the starting position.",
+    "link": "https://www.youtube.com/watch?v=ghwdoXHeiIk"
+  },
+  {
+    "name": "Standing Dumbbell Arm Curl",
+    "type": "strength",
+    "muscle": "biceps",
+    "equipment": "arm-curl",
+    "difficulty": "beginner",
+    "instructions": "Stand with a dumbbell in each hand, arms fully extended. Keep your elbows close to your torso and curl the weights while keeping your upper arms stationary. Pause at the top, then slowly lower the weights back to the starting position.",
+    "link": "https://www.youtube.com/watch?v=ykJmrZ5v0Oo"
+  },
+  {
+    "name": "Seated Alternating Dumbbell Arm Curl",
+    "type": "strength",
+    "muscle": "biceps",
+    "equipment": "arm-curl",
+    "difficulty": "beginner",
+    "instructions": "Sit on a bench with a dumbbell in each hand, arms fully extended. Curl one arm at a time while keeping the opposite upper arm stationary. Alternate between arms, pause at the top, then slowly lower the weights back to the starting position.",
+    "link": "https://www.youtube.com/watch?v=M_uPvGrMx_o"
+  },
+  {
+    "name": "Arm Extension",
+    "type": "strength",
+    "muscle": "triceps",
+    "equipment": "arm-extension",
+    "difficulty": "beginner",
+    "instructions": "Adjust the cable machine with handles at waist height. Stand facing the machine, grab the handles, and extend your arms downward. Keep your elbows close to your body. Pause briefly, then slowly return to the starting position.",
+    "link": "https://www.youtube.com/watch?v=cBt1X8fwKKc"
+  },
+  {
+    "name": "Back Extension",
+    "type": "strength",
+    "muscle": "lower back",
+    "equipment": "back-extension",
+    "difficulty": "beginner",
+    "instructions": "Adjust the back extension machine to your height. Position yourself with your hips against the pad and your upper body hanging down. Cross your arms over your chest and slowly raise your upper body until it's in line with your lower body. Lower yourself back down with control.",
+    "link": "https://www.youtube.com/watch?v=faeSexs32cM"
+  },
+  {
+    "name": "Back Row Machine",
+    "type": "strength",
+    "muscle": "upper back",
+    "equipment": "back-row-machine",
+    "difficulty": "intermediate",
+    "instructions": "Adjust the machine to your height. Sit facing the machine, grab the handles, and pull them toward you, squeezing your shoulder blades together. Keep your back straight and chest up. Slowly return to the starting position.",
+    "link": "https://www.youtube.com/watch?v=TeFo51Q_Nsc"
+  },
+  {
+    "name": "Bench Press",
+    "type": "strength",
+    "muscle": "chest",
+    "equipment": "bench-press",
+    "difficulty": "intermediate",
+    "instructions": "Lie on a flat bench with a barbell above your chest. Grip the bar with hands shoulder-width apart. Lower the bar to your upper chest, keeping your elbows at a 90-degree angle. Push the bar back up to the starting position.",
+    "link": "https://www.youtube.com/shorts/EdDqD4aKwxM"
+  },
+  {
+    "name": "Cable Lat Pulldown",
+    "type": "strength",
+    "muscle": "latissimus dorsi",
+    "equipment": "cable-lat-pulldown",
+    "difficulty": "intermediate",
+    "instructions": "Attach a lat pulldown bar to the cable machine. Sit facing the machine, grip the bar with hands wider than shoulder-width apart, and pull it down to your chest. Keep your back straight and chest up. Slowly return to the starting position.",
+    "link": "https://www.youtube.com/watch?v=trZQjegcRx0"
+  },
+  {
+    "name": "Dumbbell Chest Fly",
+    "type": "strength",
+    "muscle": "chest",
+    "equipment": "chest-fly",
+    "difficulty": "intermediate",
+    "instructions": "Set the cable machine with handles at chest height. Stand with one foot forward, grab the handles, and position your arms at shoulder height. Pull the handles together in front of you, squeezing your chest muscles. Slowly return to the starting position with control.",
+    "link": "https://www.youtube.com/watch?v=UKwkChzThig"
+  },
+  {
+    "name": "Chest Press",
+    "type": "strength",
+    "muscle": "chest",
+    "equipment": "chest-press",
+    "difficulty": "intermediate",
+    "instructions": "Adjust the chest press machine to your height. Sit facing the machine, grip the handles, and push them forward until your arms are fully extended. Slowly bring the handles back towards you, maintaining control.",
+    "link": "https://www.youtube.com/watch?v=gRVjAtPip0Y"
+  },
+  {
+    "name": "Assisted Dip Machine",
+    "type": "strength",
+    "muscle": "triceps, biceps",
+    "equipment": "dip-chin-assist",
+    "difficulty": "beginner",
+    "instructions": "Adjust the dip/chin assist machine to your height. Use the platform for dips or the grips for chin-ups. Perform the exercises with controlled movements, lowering yourself and raising yourself back up.",
+    "link": "https://www.youtube.com/watch?v=7AwoZWJ3-eo"
+  },
+  {
+    "name": "Hip Abduction/Adduction",
+    "type": "strength",
+    "muscle": "hip muscles",
+    "equipment": "hip-abduction-adduction",
+    "difficulty": "beginner",
+    "instructions": "Adjust the machine to your height and sit on it. For abduction, push your legs outward against the resistance. For adduction, bring your legs back together. Keep your back straight throughout the movement.",
+    "link": "https://www.youtube.com/watch?v=mP-FfS2HC9Q"
+  },
+  {
+    "name": "Incline Bench Press",
+    "type": "strength",
+    "muscle": "upper chest",
+    "equipment": "incline-bench",
+    "difficulty": "intermediate",
+    "instructions": "Lie on an incline bench with a barbell above your chest. Grip the bar with hands shoulder-width apart. Lower the bar to your upper chest, keeping your elbows at a 90-degree angle. Push the bar back up to the starting position.",
+    "link": "https://www.youtube.com/watch?v=8iPEnn-ltC8"
+  },
+  {
+    "name": "Wide Grip Lat Pulldown",
+    "type": "strength",
+    "muscle": "latissimus dorsi",
+    "equipment": "lat-pulldown",
+    "difficulty": "intermediate",
+    "instructions": "Adjust the lat pulldown machine to your height. Sit facing the machine, grip the bar with hands wider than shoulder-width apart, and pull it down to your chest. Keep your back straight and chest up. Slowly return to the starting position.",
+    "link": "https://www.youtube.com/watch?v=83Y3CFcgnkQ"
+  },
+  {
+    "name": "Seated Leg Extension",
+    "type": "strength",
+    "muscle": "quadriceps",
+    "equipment": "leg-extension",
+    "difficulty": "beginner",
+    "instructions": "Adjust the leg extension machine to your height. Sit on the machine, hook your ankles under the padded bar, and extend your legs until they're straight. Slowly return to the starting position with control.",
+    "link": "https://www.youtube.com/watch?v=8Jqof7z3QYM"
+  },
+  {
+    "name": "45-Degree Leg Press",
+    "type": "strength",
+    "muscle": "quadriceps, hamstrings",
+    "equipment": "leg-press",
+    "difficulty": "intermediate",
+    "instructions": "Adjust the leg press machine to your height. Sit on the machine and place your feet on the platform. Push the platform away from you by extending your knees. Slowly bring the platform back towards you.",
+    "link": "https://www.youtube.com/watch?v=n2ng6LCp3yk"
+  },
+  {
+    "name": "Lying Hamstring Curl",
+    "type": "strength",
+    "muscle": "hamstrings",
+    "equipment": "lying-down-leg-curl",
+    "difficulty": "beginner",
+    "instructions": "Adjust the leg curl machine to your height. Lie face down on the machine with your legs straight. Curl your legs up towards your glutes, then lower them back down with control.",
+    "link": "https://www.youtube.com/watch?v=NlZeAGZ_YJw"
+  },
+  {
+    "name": "Dumbbell Shoulder Press",
+    "type": "strength",
+    "muscle": "shoulders",
+    "equipment": "overhead-shoulder-press",
+    "difficulty": "intermediate",
+    "instructions": "Sit or stand with a dumbbell in each hand at shoulder height. Press the weights overhead, fully extending your arms. Lower the weights back to shoulder height with control.",
+    "link": "https://www.youtube.com/watch?v=0JfYxMRsUCQ"
+  },
+  {
+    "name": "Face Pulls",
+    "type": "strength",
+    "muscle": "various",
+    "equipment": "pulley-machine",
+    "difficulty": "intermediate",
+    "instructions": "Adjust the cable machine to your desired height and use various attachments for different exercises. Perform movements with controlled resistance, targeting specific muscle groups.",
+    "link": "https://www.youtube.com/watch?v=rep-qVOkqgk"
+  },
+  {
+    "name": "Seated Cable Row",
+    "type": "strength",
+    "muscle": "middle back",
+    "equipment": "seated-cable-row",
+    "difficulty": "intermediate",
+    "instructions": "Sit facing the cable machine, grab the handles, and pull them towards you, squeezing your shoulder blades together. Keep your back straight and chest up. Slowly return to the starting position.",
+    "link": "https://www.youtube.com/watch?v=xQNrFHEMhI4"
+  },
+  {
+    "name": "Seated Leg Curl",
+    "type": "strength",
+    "muscle": "hamstrings",
+    "equipment": "seated-leg-curl",
+    "difficulty": "beginner",
+    "instructions": "Adjust the leg curl machine to your height. Sit on the machine with your legs straight and curl them up towards your glutes. Slowly return to the starting position with control.",
+    "link": "https://m.youtube.com/watch?v=fK0uZ3KRZRI"
+  },
+  {
+    "name": "Smith Machine Squats",
+    "type": "strength",
+    "muscle": "various",
+    "equipment": "smith-machine",
+    "difficulty": "intermediate",
+    "instructions": "Utilize the Smith machine for various exercises such as squats, bench press, and shoulder press. Adjust the bar to your desired height and perform movements with controlled form.",
+    "link": "https://www.youtube.com/watch?v=GARRQ7_PDC8"
+  },
+  {
+    "name": "Barbell Squats",
+    "type": "strength",
+    "muscle": "quadriceps, glutes",
+    "equipment": "squat-rack",
+    "difficulty": "intermediate",
+    "instructions": "Set the barbell on the squat rack at an appropriate height. Position yourself under the bar, lift it off the rack, and perform squats with proper form. Lower the bar back onto the rack after each set.",
+    "link": "https://www.youtube.com/watch?v=q6TI60e7kWY"
+  },
+  {
+    "name": "Seated Torso Rotation",
+    "type": "strength",
+    "muscle": "obliques",
+    "equipment": "torso-rotation-machine",
+    "difficulty": "beginner",
+    "instructions": "Adjust the machine to your height. Sit on the seat, grasp the handles, and rotate your torso to one side, engaging your obliques. Return to the starting position and repeat on the other side.",
+    "link": "https://m.youtube.com/watch?v=8ayNtTI_d8Q"
+  }
+]
